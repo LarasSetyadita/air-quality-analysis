@@ -8,12 +8,12 @@ Proyek ini bertujuan untuk melakukan analisis terhadap Air Quality dataset. Anal
 
 1. Clone repositori ini ke komputer anda
     ```bash
-
+        https://github.com/LarasSetyadita/air-quality-analysis.git
     ```
 
 2. install library yang dibutuhkan 
     ```bash
-    pip install -r requirements.txt
+        pip install -r requirements.txt
     ```
 
 ## cara running
